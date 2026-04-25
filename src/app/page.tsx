@@ -64,7 +64,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/elegant-girl-hat-kisses-her-boyfriend-standing-front-black-gates-with-exotic-plants-morning_197531-4565.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/elegant-girl-hat-kisses-her-boyfriend-standing-front-black-gates-with-exotic-plants-morning_197531-4565.jpg?_wi=1"
       imageAlt="Avi Pension Exterior"
       mediaAnimation="slide-up"
       testimonials={[
@@ -177,7 +177,7 @@ export default function LandingPage() {
         {
           title: "Free High-Speed Wi-Fi",
           description: "Stay connected with reliable, unlimited internet in all rooms.",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-wi-fi-router-with-smart-devices-house-figurine_23-2148779303.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-wi-fi-router-with-smart-devices-house-figurine_23-2148779303.jpg?_wi=1",
           imageAlt: "Wifi Icon",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
           name: "Deluxe Double Room",
           price: "2500 ETB",
           variant: "Premium Space",
-          imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed_1203-9643.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed_1203-9643.jpg?_wi=1",
         },
         {
           id: "3",
@@ -322,7 +322,7 @@ export default function LandingPage() {
           role: "Visitor",
           company: "International",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/elegant-girl-hat-kisses-her-boyfriend-standing-front-black-gates-with-exotic-plants-morning_197531-4565.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegant-girl-hat-kisses-her-boyfriend-standing-front-black-gates-with-exotic-plants-morning_197531-4565.jpg?_wi=2",
           imageAlt: "Luxury modern style bedroom Interior of a hotel bedroom Generative AI illustration",
         },
         {
@@ -340,7 +340,7 @@ export default function LandingPage() {
           role: "Tourist",
           company: "Backpacker",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed_1203-9643.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed_1203-9643.jpg?_wi=2",
           imageAlt: "Luxury modern style bedroom Interior of a hotel bedroom Generative AI illustration",
         },
         {
@@ -349,7 +349,7 @@ export default function LandingPage() {
           role: "Business",
           company: "Transit",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-wi-fi-router-with-smart-devices-house-figurine_23-2148779303.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-wi-fi-router-with-smart-devices-house-figurine_23-2148779303.jpg?_wi=2",
           imageAlt: "Luxury modern style bedroom Interior of a hotel bedroom Generative AI illustration",
         },
       ]}
